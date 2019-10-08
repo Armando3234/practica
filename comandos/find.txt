@@ -1,0 +1,1 @@
+Escribe la palabra "Find" en la línea de comandos CMD, pulsa "Intro" y Windows devolverá un mensaje de error que dice "Formato de parámetro incorrecto". Esto quiere decir que debes escribir palabras adicionales al lado de "Find". Los programadores de computadoras llaman a estas palabras parámetros. Los parámetros te permiten buscar en la computadora de varias formas. 
