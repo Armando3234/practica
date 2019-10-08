@@ -1,0 +1,3 @@
+dir (de directory o directorio) es un comando de la interfaz de línea de comandos del sistema operativo DOS. Se utiliza para mostrar un listado de archivos y directorios.1​ Es análogo al comando de Unix ls.2​
+
+dir ha existido como comando de DOS desde la terminal versión de MS-DOS. Forma parte del intérprete de comandos de DOS, mientras que el comando ls de UNIX es un programa independiente del intérprete de comandos.[cita requerida]
